@@ -2,7 +2,7 @@
 
 Esta API fue creada para hacer accesibles los datos sobre los proyectos de reforma constitucional de la Provincia de Santa Fe, permitiendo que cualquier persona pueda usarlos para sus propias aplicaciones, investigaciones o simplemente para informarse.
 
-La idea original y la recopilación de los PDFs fue de **[@martinv0x en X](https://x.com/martinv0x)**. Este proyecto busca expandir esa iniciativa y hacera más accessible para desarrolladores y gente interesada en construir con esta API. La transparencia y el acceso público a la información son fundamentales.
+La idea original y la recopilación de los PDFs fue de **[@martinv0x en X](https://x.com/martinv0x)**. Este proyecto busca expandir esa iniciativa y hacerla más accessible para desarrolladores y gente interesada en construir con esta API. La transparencia y el acceso público a la información son fundamentales.
 
 ## Cómo usarla localmente
 
